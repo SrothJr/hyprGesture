@@ -194,4 +194,4 @@ Let's replicate the "Open Terminal" feature (`NAV:FORWARD`).
 
 ## 📄 License
 
-This project is open source. Feel free to use, modify, and distribute it as you see fit. It is recommended to license it under the **MIT License**.
+This project is open source. Feel free to use, modify, and distribute it as you see fit. It is recommended to license it under the **Apache License 2.0**.
